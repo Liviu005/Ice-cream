@@ -1,0 +1,20 @@
+.made {
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+.made__subtitle {
+  font-family: "Titan One";
+  line-height: 34px;
+  font-size: 30px;
+  letter-spacing: 0.04em;
+  color: #FFA5BA;
+}
+.made__title {
+  font-family: "Titan One";
+  font-size: 58px;
+  line-height: 66px;
+  letter-spacing: 0.06em;
+  color: #D41443;
+}/*# sourceMappingURL=main.css.map */
